@@ -1,0 +1,260 @@
+
+.header-div{
+    margin-top: 0px;
+}
+
+
+#aa{
+    float: center;
+    margin: 0;
+}
+.header{  
+  
+    
+    background-color:lightcoral;
+    padding:45px 0 15px 30px;
+    text-align:center;
+    margin: 0;
+    
+   
+    
+}
+
+
+.header a{
+    
+    font-family: 'Fjalla One',sans-serif;
+    font-size: 25px;
+    font-weight:700;
+    letter-spacing: 7px;
+    word-spacing: 7px;
+    
+   
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+nav {
+    
+    background-color:lightcoral;
+     border-top: 1px;    
+
+    padding-bottom: 10px;
+   
+}
+
+nav a{
+    font-family: 'Fjalla One',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1;
+    padding:0 50px 0 50px;
+    
+   
+}
+
+nav a:hover{
+    
+    color:#2da1c4;
+}
+
+.Homepage-img{
+    
+    padding-top: 30px;
+    padding: 0 0 0 150px;
+}
+
+#about{
+   
+    padding: 10px 0 10px 40px;
+    
+}
+.content{
+    margin: 0 0 24px;
+    padding: 0;
+    font-size: 120%;
+    font-family: 'Fjalla One',sans-serif;
+
+}
+
+.h1{
+
+    color: black;
+    font-family: 'Fjalla One',sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0 0 20px;
+    font-size: 21px;
+    letter-spacing: 10px;
+    word-spacing: 27px;
+    text-align: center;
+    
+}
+.a{
+    font-family: 'Fjalla One',sans-serif;
+
+}
+
+.container{
+    
+    height:1400px;
+    width:850px;
+    margin:0 auto;
+    background: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form-container{
+    
+height: 1743px;
+    
+width:1000px;
+    
+margin:0 auto;
+    
+background: #fff;
+    
+padding-left: 20px;
+    
+padding-right: 20px;
+}
+.travel-container{
+    
+height: 7000;
+    
+width:1200px;
+    
+margin:0 auto;
+    
+background: #fff;
+    
+padding-left: 20px;
+    
+padding-right: 20px;
+}
+
+
+.form{
+    
+    height: 797px;
+        
+    width: 571px;
+    
+        
+    margin:0 auto;
+        
+    padding-left: 40px;
+        
+    padding-top: 40px;
+    }
+    .form label{
+        font-weight: 700;
+        letter-spacing: 2px;
+        font-size:x-large;
+    }
+
+    .form label{
+        font-weight: 700;
+        letter-spacing: 2px;
+    }
+    
+    .form input{
+        
+    height: 36px;
+        
+    width: 506px;
+        
+    font-size:16px;
+        
+    background-color: lightgrey;
+        
+    border-radius: 10px;
+    
+    border:1px solid grey;
+    }
+    
+
+
+
+.header1{
+    background-color: rgb(198, 207, 198);
+    color: white;
+    height: 75px;
+    width: 95%;
+    text-align: center;
+}
+
+span.a{
+    margin-left: 8cm;
+}
+li{
+    border-left: 2cm;
+    display: inline;
+    padding: 5px;
+    text-align: center;
+}
+.section1{
+    border-left: 10cm;
+    border-right: 10cm;
+    margin-top: 15px;
+    float: left;
+}  
+    
+    
+
+    
+ #total-price {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+
+.cart ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cart ul li {
+    display: flex;
+}
+
+
+
+    footer{
+        padding: 2px 0 2px 0;
+        text-align: center  ;
+        background-color:lightcoral;
+        color:white;
+        font-family: "Gotham A","Gotham B",sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        height: 34px;
+    }
+
+    
+    .button1{
+    
+        background-color: lightgrey;
+        color:black;
+        height: 38px;
+        width: 123px;
+         font-family: "Gotham A","Gotham B",sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        border-radius: 10px;
+        border:1px solid grey;
+        
+        
+    }
+    button:hover{
+        
+        background-color: black;
+        color:white;
+        
+    }
+    
